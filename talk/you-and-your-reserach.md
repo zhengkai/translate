@@ -251,9 +251,11 @@ You should dress according to the expectations of the audience spoken to. If I a
 
 John Tukey almost always dressed very casually. He would go into an important office and it would take a long time before the other fellow realized that this is a first-class man and he had better listen. For a long time John has had to overcome this kind of hostility. It's wasted effort! I didn't say you should conform; I said "The appearance of conforming gets you a long way." If you chose to assert your ego in any number of ways, "I am going to do it my way," you pay a small steady price throughout the whole of your professional career. And this, over a whole lifetime, adds up to an enormous amount of needless trouble.
 
-约翰·图基
+约翰·图基总是穿得非常随意，他会走进一间重要的办公室，很长时间以后其他人才会意识到这是位重要人物、而开始更认真的倾听。很长时间里，约翰都不得不克服这种敌意，真是浪费精力！我不是说你们的穿着一定要符合身份，我是说“符合身份的穿着会让你走得更远。”你可以用多种方法表现自我。“我会按照我的方式做事。”在整个职业生涯中，你需要付出少量而稳定的代价。这在整个人生中，会增加大量不必要的麻烦。
 
 By taking the trouble to tell jokes to the secretaries and being a little friendly, I got superb secretarial help. For instance, one time for some idiot reason all the reproducing services at Murray Hill were tied up. Don't ask me how, but they were. I wanted something done. My secretary called up somebody at Holmdel, hopped the company car, made the hour-long trip down and got it reproduced, and then came back. It was a payoff for the times I had made an effort to cheer her up, tell her jokes and be friendly; it was that little extra work that later paid off for me. By realizing you have to use the system and studying how to get the system to do your work, you learn how to adapt the system to your desires. Or you can fight it steadily, as a small undeclared war, for the whole of your life.
+
+在给秘书添麻烦时，通过讲笑话显得自己更友善一点，我得到了更好到秘书服务。例如有一次，因为某些愚蠢的原因，梅利山（贝尔总部所在）的所有复制的业务都被捆起来不让用了。不要问我怎么做到的，他们就是干出来了。我想把某些活做完。我的秘书打电话给[霍姆德尔](https://en.wikipedia.org/wiki/Bell_Labs_Holmdel_Complex)的人，希望公司能派车过来，开上个把小时的路程过来，帮忙复制，再开回去。这就是我花时间鼓励她、给她讲笑话、表现友善的回报。只是很少的额外工作就能回报我这些。通过认识到你需要使用系统，学习如果让系统帮你干活、满足你的需求。你也可以一生中持续不断地跟它较劲，就好像一场小型的、没有明确宣战的战争。
 
 And I think John Tukey paid a terrible price needlessly. He was a genius anyhow, but I think it would have been far better, and far simpler, had he been willing to conform a little bit instead of ego asserting. He is going to dress the way he wants all of the time. It applies not only to dress but to a thousand other things; people will continue to fight the system. Not that you shouldn't occasionally!
 
