@@ -271,9 +271,11 @@ Barney Oliver was a good man. He wrote a letter one time to the IEEE. At that ti
 
 Many a second-rate fellow gets caught up in some little twitting of the system, and carries it through to warfare. He expends his energy in a foolish project. Now you are going to tell me that somebody has to change the system. I agree; somebody's has to. Which do you want to be? The person who changes the system or the person who does first-class science? Which person is it that you want to be? Be clear, when you fight the system and struggle with it, what you are doing, how far to go out of amusement, and how much to waste your effort fighting the system. My advice is to let somebody else do it and you get on with becoming a first-class scientist. Very few of you have the ability to both reform the system and become a first-class scientist.
 
-很多二流的同行会被系统小小的嘲弄，
+很多二流的同行会被系统小小的嘲弄，而后拖进战争。他把他的精力花在了愚蠢的项目上。你们现在会告诉我某些人改变了系统，我同意。总会有人去做。你想成为哪种人？改变系统的人，还是做一流科研的人？到底哪个是你想的？很明显，当你跟系统抗争的时候，你都在做什么？这些荒唐事什么时候能结束？跟系统斗争要浪费你多少精力？我的忠告是让某些人去做这个，但你应该成为一流科学家。你们当中只有极少数的人可以既改革系统，同时又能成为一流科学家。
 
 On the other hand, we can't always give in. There are times when a certain amount of rebellion is sensible. I have observed almost all scientists enjoy a certain amount of twitting the system for the sheer love of it. What it comes down to basically is that you cannot be original in one area without having originality in others. Originality is being different. You can't be an original scientist without having some other original characteristics. But many a scientist has let his quirks in other places make him pay a far higher price than is necessary for the ego satisfaction he or she gets. I'm not against all ego assertion; I'm against some.
+
+另一方面来讲，我们不能总是让步。
 
 Another fault is anger. Often a scientist becomes angry, and this is no way to handle things. Amusement, yes, anger, no. Anger is misdirected. You should follow and cooperate rather than struggle against the system all the time.
 
