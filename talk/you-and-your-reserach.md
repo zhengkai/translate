@@ -286,17 +286,23 @@ Another thing you should look for is the positive side of things instead of the 
 
 Now self-delusion in humans is very, very common. There are enumerable ways of you changing a thing and kidding yourself and making it look some other way. When you ask, "Why didn't you do such and such," the person has a thousand alibis. If you look at the history of science, usually these days there are 10 people right there ready, and we pay off for the person who is there first. The other nine fellows say, "Well, I had the idea but I didn't do it and so on and so on." There are so many alibis. Why weren't you first? Why didn't you do it right? Don't try an alibi. Don't try and kid yourself. You can tell other people all the alibis you want. I don't mind. But to yourself try to be honest.
 
-其实自我欺骗在人类中非常、非常普遍。有很多方式做改变事物，自欺欺人可以让它看起来不同。当你问起：“为什么不这么这么做,”人们有一千种托词，
+其实自我欺骗在人类中非常、非常普遍。有很多方式做改变事物，自欺欺人可以让它看起来不同。当你问起：“为什么不这么这么做,”人们有一千种托词。如果回顾一下科学发展的历史，经常会有十来个人在很短的时间里给出相同的发现，只有第一个人会赢得荣誉。其他九个人说：“好吧，其实我想到这了，但是没做下去，等等。”有那么多借口，为什么你不是第一个？为什么你没作对？不要找借口，不要哄骗自己。你想跟别人说什么样的借口，我都没意见，但是对自己要诚实。
 
 If you really want to be a first-class scientist you need to know yourself, your weaknesses, your strengths, and your bad faults, like my egotism. How can you convert a fault to an asset? How can you convert a situation where you haven't got enough manpower to move into a direction when that's exactly what you need to do? I say again that I have seen, as I studied the history, the successful scientist changed the viewpoint and what was a defect became an asset.
 
+如果你想成为一流科学家就要了解你自己。你的弱点，你的长处，你的致命缺点，比方说我的自负。你能把缺点转换成财富么？如果缺乏人手，你能调整方向、把形势化解成你需要的样子么？我再说一遍，在学习了历史后我看到，成功的科学家们通过改变视角，把缺陷变成财富。
+
 In summary, I claim that some of the reasons why so many people who have greatness within their grasp don't succeed are: they don't work on important problems, they don't become emotionally involved, they don't try and change what is difficult to some other situation which is easily done but is still important, and they keep giving themselves alibis why they don't. They keep saying that it is a matter of luck. I've told you how easy it is; furthermore I've told you how to reform. Therefore, go forth and become great scientists!
+
+在这个夏天，我声称，为什么这么多有才华的人没有获得成功，其中一些原因是，他们没去研究重要的问题，他们没有投入感情，他们不去尝试把某些场景下很困难的问题化解为更简单但依然重要的问题，坚持给自己找借口为什么没作成。他们一直说这是运气问题。我已经告诉了你其实多容易，此外还我还告诉你如何去改进。所以，继续前进吧，去成为伟大的科学家！
 
 (End of the formal part of the talk.)
 
 ## DISCUSSION - QUESTIONS AND ANSWERS
 
 A. G. Chynoweth: Well that was 50 minutes of concentrated wisdom and observations accumulated over a fantastic career; I lost track of all the observations that were striking home. Some of them are very very timely. One was the plea for more computer capacity; I was hearing nothing but that this morning from several people, over and over again. So that was right on the mark today even though here we are 20 - 30 years after when you were making similar remarks, Dick. I can think of all sorts of lessons that all of us can draw from your talk. And for one, as I walk around the halls in the future I hope I won't see as many closed doors in Bellcore. That was one observation I thought was very intriguing.
+
+[A. G. Chynoweth](https://history.aip.org/phn/11503020.html)
 
 Thank you very, very much indeed Dick; that was a wonderful recollection. I'll now open it up for questions. I'm sure there are many people who would like to take up on some of the points that Dick was making.
 
