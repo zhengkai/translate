@@ -8,7 +8,7 @@
 
 本文是汉明于 1986 年 3 月 7 日在贝尔通信研究研讨会上所做的演讲。
 
-翻译：郑凯（zhengkai@gmail.com），感谢 [@yayv](https://twitter.com/yayv)、FNZ 指正
+翻译：郑凯（zhengkai@gmail.com），感谢 [@yayv](https://twitter.com/yayv)、[FNZ](https://www.goingwestproject.org/) 指正
 
 ---------
 
