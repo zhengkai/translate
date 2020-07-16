@@ -33,13 +33,16 @@ tracks the only rail lines under the
 01:02
 Hudson connecting New York City to the
 01:03
-rest of the country this bottleneck
+rest of the country
+this bottleneck
 01:05
 that's even worse at winter when ice
 01:07
 forms in cracks left by Hurricane sandy
 01:08
-and 100 years of general wear and tear
+and
+
+100 years of general wear and tear
 01:11
 forcing Amtrak to periodically shut down
 01:13
@@ -47,6 +50,7 @@ the tunnels and defrost their catenary
 01:14
 electrical lines
 01:18
+
 when as you look around a wire usually
 01:21
 this bicycles which we say if we stop

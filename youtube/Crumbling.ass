@@ -9,7 +9,7 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Active Line: 4
+Active Line: 11
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -19,7 +19,13 @@ Style: Default,Noto Sans CJK SC,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:32.50,0:00:38.70,Default,,0,0,0,,我是 Thomas，现在是宾夕法尼亚车站的早高峰\N纽约最繁忙的铁路车站
 Dialogue: 0,0:00:38.70,0:00:43.00,Default,,0,0,0,,把我带到这的火车，每天要运送 50 万人
-Dialogue: 0,0:00:43.00,0:00:48.00,Default,,0,0,0,,火车通过一条小隧道把纽约和它东北方的地区连接起来
+Dialogue: 0,0:00:43.00,0:00:48.00,Default,,0,0,0,,火车通过一条小隧道\N把纽约和它东北方的地区连接起来
 Dialogue: 0,0:00:48.00,0:00:51.50,Default,,0,0,0,,隧道在 1910 年建成，现在急需维护
 Dialogue: 0,0:00:52.50,0:00:55.00,Default,,0,0,0,,跟美国其他地区的一样
-Dialogue: 0,0:00:58.50,0:00:58.50,Default,,0,0,0,,
+Dialogue: 0,0:00:58.50,0:01:00.50,Default,,0,0,0,,一条美铁北河隧道有两条轨道
+Dialogue: 0,0:01:00.50,0:01:04.70,Default,,0,0,0,,哈德逊河下唯一的一条铁路线\N把纽约和其他地区联系起来
+Dialogue: 0,0:01:04.70,0:01:09.50,Default,,0,0,0,,在冬天这个瓶颈会更糟糕，因为飓风桑迪导致了裂隙里结冰
+Dialogue: 0,0:01:09.50,0:01:14.00,Default,,0,0,0,,上百年的磨损，导致美铁需要定期关闭隧道
+Dialogue: 0,0:01:14.00,0:01:16.00,Default,,0,0,0,,给他们的电缆吊线除冰
+Dialogue: 0,0:01:19.50,0:01:21.50,Default,,0,0,0,,当你环顾四周
+Dialogue: 0,0:01:21.50,0:01:25.50,Default,,0,0,0,,看到这种冰柱时就要停下来解决它们
