@@ -9,7 +9,7 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Active Line: 11
+Active Line: 22
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -29,3 +29,16 @@ Dialogue: 0,0:01:09.50,0:01:14.00,Default,,0,0,0,,上百年的磨损，导致美
 Dialogue: 0,0:01:14.00,0:01:16.00,Default,,0,0,0,,给他们的电缆吊线除冰
 Dialogue: 0,0:01:19.50,0:01:21.50,Default,,0,0,0,,当你环顾四周
 Dialogue: 0,0:01:21.50,0:01:25.50,Default,,0,0,0,,看到这种冰柱时就要停下来解决它们
+Dialogue: 0,0:01:30.70,0:01:34.50,Default,,0,0,0,,这些冰柱可能会把电缆一起带下来
+Dialogue: 0,0:01:34.50,0:01:38.20,Default,,0,0,0,,火车过来的时候，600 人会直接受到危险
+Dialogue: 0,0:01:38.20,0:01:41.00,Default,,0,0,0,,你没法把人停在通勤线上
+Dialogue: 0,0:01:41.00,0:01:44.80,Default,,0,0,0,,我们除冰要跟上速度，不然会越来越多
+Dialogue: 0,0:01:55.00,0:01:57.00,Default,,0,0,0,,小心小心\N还好吗
+Dialogue: 0,0:01:57.00,0:02:01.70,Default,,0,0,0,,发生了什么\N立刻呼叫电力部
+Dialogue: 0,0:02:01.70,0:02:06.00,Default,,0,0,0,,嘿，南边的管道关电闸了么\N好了快搞定了，除冰
+Dialogue: 0,0:02:08.70,0:02:14.00,Default,,0,0,0,,除冰和其他紧急维护，保证了北河隧道至少能运营
+Dialogue: 0,0:02:14.00,0:02:19.00,Default,,0,0,0,,但这只是修修补补\N需要完全彻底的大修，才能让隧道在下一个百年里安全运营
+Dialogue: 0,0:02:19.00,0:02:22.00,Default,,0,0,0,,这东西里外都需要彻底翻修
+Dialogue: 0,0:02:22.00,0:02:26.50,Default,,0,0,0,,我觉得需要建一条新隧道\N把所有流量都转过去
+Dialogue: 0,0:02:26.50,0:02:29.00,Default,,0,0,0,,之后再回头翻修这里
+Dialogue: 0,0:02:29.00,0:02:32.20,Default,,0,0,0,,最终哈德逊河下面就会有四条轨道了
