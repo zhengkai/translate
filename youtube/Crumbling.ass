@@ -9,8 +9,8 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Scroll Position: 15
-Active Line: 39
+Scroll Position: 45
+Active Line: 73
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -57,4 +57,38 @@ Dialogue: 0,0:03:05.50,0:03:09.80,Default,,0,0,0,,我们需要通过一项总计
 Dialogue: 0,0:03:09.80,0:03:15.50,Default,,0,0,0,,用于建设新的公路、桥梁、机场、隧道、高速公路和铁路
 Dialogue: 0,0:03:15.50,0:03:17.50,Default,,0,0,0,,遍及我们伟大的国家
 Dialogue: 0,0:03:17.50,0:03:19.50,Default,,0,0,0,,把宏伟诺言落实为具体方案
-Dialogue: 0,0:03:19.50,0:03:24.00,Default,,0,0,0,,这事交给了作为商人和前美国国会中国委员会成员的 Dan Slain 
+Dialogue: 0,0:03:19.50,0:03:24.00,Default,,0,0,0,,这事交给了作为商人和前美国国会中国委员会成员的 Dan Slain
+Dialogue: 0,0:03:24.50,0:03:27.00,Default,,0,0,0,,Slain 给出有 50 个基建项目的列表
+Dialogue: 0,0:03:27.00,0:03:29.00,Default,,0,0,0,,为供特朗普过渡小组参考
+Dialogue: 0,0:03:29.00,0:03:31.80,Default,,0,0,0,,列表顺序基于对国家的紧急和重要程度
+Dialogue: 0,0:03:31.80,0:03:36.20,Default,,0,0,0,,我的计划是从最关键的项目开始入手
+Dialogue: 0,0:03:36.20,0:03:40.50,Default,,0,0,0,,计算会因此增加多少就业机会
+Dialogue: 0,0:03:40.50,0:03:43.00,Default,,0,0,0,,对经济发展会有什么样的好处
+Dialogue: 0,0:03:43.00,0:03:47.20,Default,,0,0,0,,这样我可以交给国会一些估算的数字
+Dialogue: 0,0:03:47.20,0:03:50.80,Default,,0,0,0,,第二年又去给了他们实际的数字
+Dialogue: 0,0:03:50.80,0:03:51.80,Default,,0,0,0,,这就是整个计划
+Dialogue: 0,0:03:51.80,0:03:54.00,Default,,0,0,0,,为什么采纳了你的基建方案
+Dialogue: 0,0:03:54.00,0:03:55.80,Default,,0,0,0,,因为我很了解中国
+Dialogue: 0,0:03:55.80,0:04:00.50,Default,,0,0,0,,当中国的经济开始起步的时候\N我就在研究中国
+Dialogue: 0,0:04:00.50,0:04:02.50,Default,,0,0,0,,当他们调整结构时
+Dialogue: 0,0:04:02.50,0:04:06.50,Default,,0,0,0,,他们建造铁路、医院、发电厂
+Dialogue: 0,0:04:06.50,0:04:08.50,Default,,0,0,0,,整个中国东部
+Dialogue: 0,0:04:08.50,0:04:10.80,Default,,0,0,0,,他们对国家投入了数十亿美元
+Dialogue: 0,0:04:10.80,0:04:13.20,Default,,0,0,0,,当他们的经济再次复苏时
+Dialogue: 0,0:04:13.20,0:04:14.60,Default,,0,0,0,,他们停止了基建
+Dialogue: 0,0:04:14.60,0:04:17.80,Default,,0,0,0,,我见证了基建的力量
+Dialogue: 0,0:04:17.80,0:04:21.30,Default,,0,0,0,,过去的十年里，我们的经济停滞不前
+Dialogue: 0,0:04:21.30,0:04:23.70,Default,,0,0,0,,经济增长有两种方法
+Dialogue: 0,0:04:23.70,0:04:26.80,Default,,0,0,0,,增加就业或者提高生产力
+Dialogue: 0,0:04:26.80,0:04:28.60,Default,,0,0,0,,基建可以同时做到
+Dialogue: 0,0:04:28.60,0:04:29.80,Default,,0,0,0,,与中国不同的是
+Dialogue: 0,0:04:29.80,0:04:35.10,Default,,0,0,0,,自上世纪中叶以来，美国一直没能充分利用基础设施来提高生产力
+Dialogue: 0,0:04:35.30,0:04:38.80,Default,,0,0,0,,无论是建造新的、还是维持旧有的正常运转
+Dialogue: 0,0:04:38.90,0:04:40.50,Default,,0,0,0,,现在问题来了
+Dialogue: 0,0:04:42.50,0:04:45.00,Default,,0,0,0,,我们去年就怀疑这桥有问题
+Dialogue: 0,0:04:45.00,0:04:47.80,Default,,0,0,0,,在这里你可以看到恶化的程度
+Dialogue: 0,0:04:47.80,0:04:51.50,Default,,0,0,0,,看这洞\N这个叫地板梁，是断裂临界构件
+Dialogue: 0,0:04:51.50,0:04:55.50,Default,,0,0,0,,断裂临界的意思是，这个构件塌了，整个桥就塌了
+Dialogue: 0,0:04:56.80,0:05:00.30,Default,,0,0,0,,你能看到整条路上的地板粱都有洞
+Dialogue: 0,0:05:00.30,0:05:02.50,Default,,0,0,0,,这些问题出现时，他们是否注意到……
+Dialogue: 0,0:05:02.50,0:05:05.20,Default,,0,0,0,,我们每次都会检查，下次再来的时候也查
