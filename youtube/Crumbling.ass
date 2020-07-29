@@ -9,8 +9,8 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Scroll Position: 45
-Active Line: 73
+Scroll Position: 63
+Active Line: 93
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -92,3 +92,23 @@ Dialogue: 0,0:04:51.50,0:04:55.50,Default,,0,0,0,,断裂临界的意思是，这
 Dialogue: 0,0:04:56.80,0:05:00.30,Default,,0,0,0,,你能看到整条路上的地板粱都有洞
 Dialogue: 0,0:05:00.30,0:05:02.50,Default,,0,0,0,,这些问题出现时，他们是否注意到……
 Dialogue: 0,0:05:02.50,0:05:05.20,Default,,0,0,0,,我们每次都会检查，下次再来的时候也查
+Dialogue: 0,0:05:05.20,0:05:09.20,Default,,0,0,0,,我们会做记录来判断那些洞有没有在增大
+Dialogue: 0,0:05:09.70,0:05:12.50,Default,,0,0,0,,这桥看起来经历了很多自然侵蚀
+Dialogue: 0,0:05:12.50,0:05:14.50,Default,,0,0,0,,这桥是 1940 年左右建的
+Dialogue: 0,0:05:14.50,0:05:17.00,Default,,0,0,0,,该做的都做了，现在只能修补
+Dialogue: 0,0:05:17.00,0:05:20.00,Default,,0,0,0,,有点像买了车以后一直砸钱
+Dialogue: 0,0:05:20.00,0:05:23.00,Default,,0,0,0,,没错，就像在一台二十年的旧车上砸钱
+Dialogue: 0,0:05:23.00,0:05:26.50,Default,,0,0,0,,桥梁信息库里定义的损伤等级从 0 到 9
+Dialogue: 0,0:05:26.50,0:05:29.80,Default,,0,0,0,,这个桥评级是 4，比较糟的分类
+Dialogue: 0,0:05:29.80,0:05:32.30,Default,,0,0,0,,如果比 3 低我们会关闭大桥
+Dialogue: 0,0:05:34.30,0:05:37.80,Default,,0,0,0,,如果车辆超重或者桥关闭了\N从哪能过河？
+Dialogue: 0,0:05:37.80,0:05:40.50,Default,,0,0,0,,方圆百里内就这么一座桥，没的选
+Dialogue: 0,0:05:40.50,0:05:42.80,Default,,0,0,0,,那样会增加多少行程？
+Dialogue: 0,0:05:42.80,0:05:44.80,Default,,0,0,0,,我估计他们要多花 4 个小时
+Dialogue: 0,0:05:45.00,0:05:49.80,Default,,0,0,0,,我们在 20 分钟里看到 6 辆卡车通过\N再乘以 4 个小时
+Dialogue: 0,0:05:49.80,0:05:53.50,Default,,0,0,0,,可以算出浪费了 24 小时的时间和相应的汽油
+Dialogue: 0,0:05:53.50,0:05:56.50,Default,,0,0,0,,再乘以每天从这里通过的其他汽车
+Dialogue: 0,0:05:56.50,0:05:59.50,Default,,0,0,0,,再乘以全州类似情况的桥梁的数量
+Dialogue: 0,0:05:59.50,0:06:03.50,Default,,0,0,0,,再乘以 50 个周、一年 365 天
+Dialogue: 0,0:06:03.50,0:06:05.50,Default,,0,0,0,,可以看到全美卡车运输业宣称
+Dialogue: 0,0:06:05.50,0:06:09.50,Default,,0,0,0,,每年因为这样的基建而损失 600 亿美元
