@@ -9,8 +9,8 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Scroll Position: 63
-Active Line: 93
+Scroll Position: 75
+Active Line: 105
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -106,9 +106,21 @@ Dialogue: 0,0:05:37.80,0:05:40.50,Default,,0,0,0,,方圆百里内就这么一座
 Dialogue: 0,0:05:40.50,0:05:42.80,Default,,0,0,0,,那样会增加多少行程？
 Dialogue: 0,0:05:42.80,0:05:44.80,Default,,0,0,0,,我估计他们要多花 4 个小时
 Dialogue: 0,0:05:45.00,0:05:49.80,Default,,0,0,0,,我们在 20 分钟里看到 6 辆卡车通过\N再乘以 4 个小时
-Dialogue: 0,0:05:49.80,0:05:53.50,Default,,0,0,0,,可以算出浪费了 24 小时的时间和相应的汽油
+Dialogue: 0,0:05:49.80,0:05:53.50,Default,,0,0,0,,可以算出浪费了 24 小时的时间和相应的油耗
 Dialogue: 0,0:05:53.50,0:05:56.50,Default,,0,0,0,,再乘以每天从这里通过的其他汽车
 Dialogue: 0,0:05:56.50,0:05:59.50,Default,,0,0,0,,再乘以全州类似情况的桥梁的数量
-Dialogue: 0,0:05:59.50,0:06:03.50,Default,,0,0,0,,再乘以 50 个周、一年 365 天
+Dialogue: 0,0:05:59.50,0:06:03.50,Default,,0,0,0,,再乘以 50 个州、一年 365 天
 Dialogue: 0,0:06:03.50,0:06:05.50,Default,,0,0,0,,可以看到全美卡车运输业宣称
-Dialogue: 0,0:06:05.50,0:06:09.50,Default,,0,0,0,,每年因为这样的基建而损失 600 亿美元
+Dialogue: 0,0:06:05.50,0:06:09.80,Default,,0,0,0,,每年因为这样的基建而损失 600 亿美元
+Dialogue: 0,0:06:10.20,0:06:14.50,Default,,0,0,0,,但是美国运输业还有很大一部分是基于——航运
+Dialogue: 0,0:06:14.50,0:06:16.80,Default,,0,0,0,,尽管初始工程是由大自然母亲完成的
+Dialogue: 0,0:06:16.80,0:06:22.00,Default,,0,0,0,,跟那些陆地上的基建一样\N我国的水路人造基建也已经残旧不堪
+Dialogue: 0,0:06:22.00,0:06:25.00,Default,,0,0,0,,陆军工兵部队经营着闸门和水坝网络
+Dialogue: 0,0:06:25.00,0:06:27.30,Default,,0,0,0,,允许各种货船、驳船和游船等
+Dialogue: 0,0:06:27.30,0:06:32.00,Default,,0,0,0,,在全国的河流中航行\N无论是顺流而下还是升到上游
+Dialogue: 0,0:06:32.00,0:06:36.00,Default,,0,0,0,,这里是俄亥俄河上的 52 号水闸和堤坝
+Dialogue: 0,0:06:36.00,0:06:38.50,Default,,0,0,0,,也是全美最繁忙的水域
+Dialogue: 0,0:06:38.50,0:06:41.00,Default,,0,0,0,,建于 90 年前，已经非常老了
+Dialogue: 0,0:06:41.00,0:06:43.50,Default,,0,0,0,,已经毁坏并关闭了
+Dialogue: 0,0:06:43.50,0:06:46.80,Default,,0,0,0,,这么做的代价是，每年造成的经济损失达数十亿美元
+Dialogue: 0,0:06:46.80,0:06:48.80,Default,,0,0,0,,我做这份工作
