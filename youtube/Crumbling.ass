@@ -9,8 +9,8 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Scroll Position: 75
-Active Line: 105
+Scroll Position: 87
+Active Line: 115
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -118,9 +118,19 @@ Dialogue: 0,0:06:16.80,0:06:22.00,Default,,0,0,0,,跟那些陆地上的基建一
 Dialogue: 0,0:06:22.00,0:06:25.00,Default,,0,0,0,,陆军工兵部队经营着闸门和水坝网络
 Dialogue: 0,0:06:25.00,0:06:27.30,Default,,0,0,0,,允许各种货船、驳船和游船等
 Dialogue: 0,0:06:27.30,0:06:32.00,Default,,0,0,0,,在全国的河流中航行\N无论是顺流而下还是升到上游
-Dialogue: 0,0:06:32.00,0:06:36.00,Default,,0,0,0,,这里是俄亥俄河上的 52 号水闸和堤坝
+Dialogue: 0,0:06:32.00,0:06:36.00,Default,,0,0,0,,这里是俄亥俄河上的 52 号水闸堤坝
 Dialogue: 0,0:06:36.00,0:06:38.50,Default,,0,0,0,,也是全美最繁忙的水域
 Dialogue: 0,0:06:38.50,0:06:41.00,Default,,0,0,0,,建于 90 年前，已经非常老了
 Dialogue: 0,0:06:41.00,0:06:43.50,Default,,0,0,0,,已经毁坏并关闭了
 Dialogue: 0,0:06:43.50,0:06:46.80,Default,,0,0,0,,这么做的代价是，每年造成的经济损失达数十亿美元
-Dialogue: 0,0:06:46.80,0:06:48.80,Default,,0,0,0,,我做这份工作
+Dialogue: 0,0:06:49.20,0:06:52.00,Default,,0,0,0,,我做这份工作好像一直在等着发生点什么
+Dialogue: 0,0:06:52.00,0:06:53.50,Default,,0,0,0,,我不知道我在等什么
+Dialogue: 0,0:06:53.50,0:06:56.80,Default,,0,0,0,,军队要赶路，但是这取决于这条河
+Dialogue: 0,0:06:59.10,0:07:01.00,Default,,0,0,0,,我们来到了 52 号水闸堤坝
+Dialogue: 0,0:07:01.00,0:07:03.90,Default,,0,0,0,,中间的口已经被打开，这已经成了常规操作
+Dialogue: 0,0:07:04.00,0:07:07.40,Default,,0,0,0,,俄亥俄河上最繁忙的水闸堤坝发生泄漏
+Dialogue: 0,0:07:07.40,0:07:10.90,Default,,0,0,0,,再一次，52 号上的交通被中断
+Dialogue: 0,0:07:11.00,0:07:14.80,Default,,0,0,0,,通常把所有水路都堵上后，水会没到顶部
+Dialogue: 0,0:07:14.80,0:07:18.00,Default,,0,0,0,,但昨天晚上，我们想把所有水闸拉到顶
+Dialogue: 0,0:07:18.00,0:07:20.80,Default,,0,0,0,,我们关闭了一个闸口，可它被冲偏了
+Dialogue: 0,0:07:20.80,0:07:24.80,Default,,0,0,0,,我们放开闸，结果它冲过其他几个闸口，顺河漂走了\N我们就这么丢了个闸口
