@@ -9,8 +9,8 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Scroll Position: 87
-Active Line: 115
+Scroll Position: 102
+Active Line: 132
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -133,4 +133,21 @@ Dialogue: 0,0:07:07.40,0:07:10.90,Default,,0,0,0,,再一次，52 号上的交通
 Dialogue: 0,0:07:11.00,0:07:14.80,Default,,0,0,0,,通常把所有水路都堵上后，水会没到顶部
 Dialogue: 0,0:07:14.80,0:07:18.00,Default,,0,0,0,,但昨天晚上，我们想把所有水闸拉到顶
 Dialogue: 0,0:07:18.00,0:07:20.80,Default,,0,0,0,,我们关闭了一个闸口，可它被冲偏了
-Dialogue: 0,0:07:20.80,0:07:24.80,Default,,0,0,0,,我们放开闸，结果它冲过其他几个闸口，顺河漂走了\N我们就这么丢了个闸口
+Dialogue: 0,0:07:20.80,0:07:23.50,Default,,0,0,0,,我们放开闸，结果它冲过其他几个闸口，顺河漂走了
+Dialogue: 0,0:07:23.50,0:07:26.00,Default,,0,0,0,,我们就这么丢了个闸口\N所以我们需要重建
+Dialogue: 0,0:07:26.00,0:07:29.00,Default,,0,0,0,,我们不知道它到底什么形状，直到潜下河把他们捞上来
+Dialogue: 0,0:07:29.00,0:07:31.00,Default,,0,0,0,,这大坝是 1927 年修建的
+Dialogue: 0,0:07:31.00,0:07:34.80,Default,,0,0,0,,如果出现任何灾难性的问题，我们只能花更多的钱
+Dialogue: 0,0:07:34.80,0:07:37.60,Default,,0,0,0,,这是场恶梦，我确定这一定会崩溃的
+Dialogue: 0,0:07:38.00,0:07:43.30,Default,,0,0,0,,闸门和水坝系统的要点在于，防止河水变得太浅，而使船无法通过
+Dialogue: 0,0:07:43.30,0:07:45.90,Default,,0,0,0,,尽管很多有上百年历史的零件依然工作正常
+Dialogue: 0,0:07:46.00,0:07:48.00,Default,,0,0,0,,例如这台传统爵士乐时代的蒸汽机
+Dialogue: 0,0:07:52.00,0:07:54.00,Default,,0,0,0,,这部分还不是让人太头疼
+Dialogue: 0,0:07:54.00,0:07:57.70,Default,,0,0,0,,不头疼说的是船闸操作员，不包括所有去上游的船
+Dialogue: 0,0:07:58.00,0:07:59.50,Default,,0,0,0,,总共就这两只船
+Dialogue: 0,0:07:59.50,0:08:01.30,Default,,0,0,0,,该死，我们该怎么弄
+Dialogue: 0,0:08:01.30,0:08:03.30,Default,,0,0,0,,周围几英里有好多
+Dialogue: 0,0:08:03.30,0:08:06.00,Default,,0,0,0,,平时也这样么？\N是的
+Dialogue: 0,0:08:06.00,0:08:10.00,Default,,0,0,0,,真是条糟糕的航线\N大概有 150 条船在等
+Dialogue: 0,0:08:12.00,0:08:15.00,Default,,0,0,0,,52 号坝需要关闭至少 18 天
+Dialogue: 0,0:08:15.00,0:08:18.50,Default,,0,0,0,,接下来的船堵塞不仅让人厌烦，也代价高昂
