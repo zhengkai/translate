@@ -9,8 +9,8 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Scroll Position: 102
-Active Line: 132
+Scroll Position: 126
+Active Line: 143
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -151,3 +151,14 @@ Dialogue: 0,0:08:03.30,0:08:06.00,Default,,0,0,0,,平时也这样么？\N是的
 Dialogue: 0,0:08:06.00,0:08:10.00,Default,,0,0,0,,真是条糟糕的航线\N大概有 150 条船在等
 Dialogue: 0,0:08:12.00,0:08:15.00,Default,,0,0,0,,52 号坝需要关闭至少 18 天
 Dialogue: 0,0:08:15.00,0:08:18.50,Default,,0,0,0,,接下来的船堵塞不仅让人厌烦，也代价高昂
+Dialogue: 0,0:08:18.50,0:08:23.60,Default,,0,0,0,,一只船等待 15 小时，就要花费船运公司 80,000 美元
+Dialogue: 0,0:08:23.60,0:08:26.90,Default,,0,0,0,,这里船运量很大，是全美最繁忙的水闸
+Dialogue: 0,0:08:26.90,0:08:28.60,Default,,0,0,0,,比巴拿马运河还要繁忙
+Dialogue: 0,0:08:28.60,0:08:31.80,Default,,0,0,0,,所有船都要从这通过，这就是……美国经济
+Dialogue: 0,0:08:32.00,0:08:36.00,Default,,0,0,0,,从 90 年代开始，52 号坝计划被 Olmsted 水坝替换
+Dialogue: 0,0:08:36.00,0:08:37.80,Default,,0,0,0,,但它至今仍在修建中
+Dialogue: 0,0:08:37.80,0:08:41.00,Default,,0,0,0,,这只是河里整个水闸堤坝网络中的一环
+Dialogue: 0,0:08:41.00,0:08:45.80,Default,,0,0,0,,陆军工兵部队估计需要至少 50 亿美元的修理费用
+Dialogue: 0,0:08:45.80,0:08:49.50,Default,,0,0,0,,来维持 20 年内内河航运系统可用
+Dialogue: 0,0:08:49.50,0:08:53.50,Default,,0,0,0,,对于像 Paul Jesse 这样的玉米农场主、和农业中心地带的其他人来说
+Dialogue: 0,0:08:53.50,0:08:56.50,Default,,0,0,0,,则是损失惨重，他们没什么选择余地
