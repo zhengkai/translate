@@ -9,8 +9,8 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Scroll Position: 126
-Active Line: 143
+Scroll Position: 120
+Active Line: 159
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -162,3 +162,19 @@ Dialogue: 0,0:08:41.00,0:08:45.80,Default,,0,0,0,,陆军工兵部队估计需要
 Dialogue: 0,0:08:45.80,0:08:49.50,Default,,0,0,0,,来维持 20 年内内河航运系统可用
 Dialogue: 0,0:08:49.50,0:08:53.50,Default,,0,0,0,,对于像 Paul Jesse 这样的玉米农场主、和农业中心地带的其他人来说
 Dialogue: 0,0:08:53.50,0:08:56.50,Default,,0,0,0,,则是损失惨重，他们没什么选择余地
+Dialogue: 0,0:08:56.90,0:08:58.80,Default,,0,0,0,,粮仓放在这是最合适的
+Dialogue: 0,0:08:58.80,0:09:02.00,Default,,0,0,0,,你可以用最便宜的运输方式再卖出去
+Dialogue: 0,0:09:02.00,0:09:06.40,Default,,0,0,0,,所以我们非常担心水闸堤坝会不会塌
+Dialogue: 0,0:09:06.40,0:09:08.00,Default,,0,0,0,,谁会来承担费用
+Dialogue: 0,0:09:08.00,0:09:12.00,Default,,0,0,0,,要么是我们来承担，以换取较低的谷物价格
+Dialogue: 0,0:09:12.00,0:09:15.00,Default,,0,0,0,,要么花更多的钱从其他渠道购买
+Dialogue: 0,0:09:15.00,0:09:19.50,Default,,0,0,0,,照我看，这笔钱应该由政府部门来出
+Dialogue: 0,0:09:22.30,0:09:24.50,Default,,0,0,0,,即使航线上陈旧的基建还能工作
+Dialogue: 0,0:09:24.50,0:09:28.50,Default,,0,0,0,,上百年来，船运技术和运输量的持续增长
+Dialogue: 0,0:09:28.50,0:09:30.70,Default,,0,0,0,,也早已超过了当初的设计容量
+Dialogue: 0,0:09:31.00,0:09:36.00,Default,,0,0,0,,一艘拖船正拖着 46 米长的驳船通过 21 号水闸
+Dialogue: 0,0:09:36.00,0:09:39.50,Default,,0,0,0,,我会先把 15 个中的 9 个先运过去
+Dialogue: 0,0:09:39.50,0:09:42.10,Default,,0,0,0,,再把剩下的 6 个也运过去
+Dialogue: 0,0:09:42.10,0:09:44.00,Default,,0,0,0,,到下一个水闸再接上
+Dialogue: 0,0:09:45.50,0:09:48.00,Default,,0,0,0,,美国大多数水闸堤坝都不够大
+Dialogue: 0,0:09:48.00,0:09:50.50,Default,,0,0,0,,较大的驳船无法一次性通过
