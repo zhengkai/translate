@@ -9,8 +9,8 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Scroll Position: 120
-Active Line: 159
+Scroll Position: 156
+Active Line: 179
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -178,3 +178,24 @@ Dialogue: 0,0:09:39.50,0:09:42.10,Default,,0,0,0,,再把剩下的 6 个也运过
 Dialogue: 0,0:09:42.10,0:09:44.00,Default,,0,0,0,,到下一个水闸再接上
 Dialogue: 0,0:09:45.50,0:09:48.00,Default,,0,0,0,,美国大多数水闸堤坝都不够大
 Dialogue: 0,0:09:48.00,0:09:50.50,Default,,0,0,0,,较大的驳船无法一次性通过
+Dialogue: 0,0:09:50.50,0:09:54.20,Default,,0,0,0,,所以在路上每碰到一个水闸，都需要拆开通过后再重新组装
+Dialogue: 0,0:09:54.40,0:09:59.00,Default,,0,0,0,,现在栓锁被船员打开了，船分成了两部分
+Dialogue: 0,0:09:59.50,0:10:01.30,Default,,0,0,0,,我不在意这活没技术含量
+Dialogue: 0,0:10:01.80,0:10:04.00,Default,,0,0,0,,上面这老哥的角色叫骡子
+Dialogue: 0,0:10:04.00,0:10:06.10,Default,,0,0,0,,因为以前这活是由骡子来干的
+Dialogue: 0,0:10:06.30,0:10:10.60,Default,,0,0,0,,没有不敬的意思\N但我觉得他们应该起个好点的称呼
+Dialogue: 0,0:10:11.00,0:10:12.60,Default,,0,0,0,,水路运输进度缓慢
+Dialogue: 0,0:10:12.60,0:10:14.60,Default,,0,0,0,,这里的工作缺乏效率
+Dialogue: 0,0:10:14.60,0:10:17.60,Default,,0,0,0,,可在这种规模的航运下，这却是唯一可行的方式
+Dialogue: 0,0:10:17.60,0:10:21.60,Default,,0,0,0,,如果这些货全部改成火车或者卡车来运输\N需要多少车
+Dialogue: 0,0:10:21.60,0:10:23.60,Default,,0,0,0,,15 个 9 英尺驳船的负载
+Dialogue: 0,0:10:23.60,0:10:29.50,Default,,0,0,0,,能顶 225 节车皮，或者 870 辆卡车
+Dialogue: 0,0:10:29.50,0:10:33.80,Default,,0,0,0,,首尾相连有 18.5 公里，来运这条驳船里的货
+Dialogue: 0,0:10:33.80,0:10:34.80,Default,,0,0,0,,听起来很吓人
+Dialogue: 0,0:10:35.50,0:10:38.50,Default,,0,0,0,,当驳船穿过所有的水闸堤坝到达出海口
+Dialogue: 0,0:10:38.50,0:10:42.50,Default,,0,0,0,,把货物运到海外之前\N他们还要为糟糕的基建再次付出代价
+Dialogue: 0,0:10:42.80,0:10:44.40,Default,,0,0,0,,南路易斯安那港
+Dialogue: 0,0:10:44.40,0:10:47.10,Default,,0,0,0,,这也有一个需要维修的清单
+Dialogue: 0,0:10:49.00,0:10:52.00,Default,,0,0,0,,这里美国的主要出口港口
+Dialogue: 0,0:10:52.00,0:10:57.00,Default,,0,0,0,,有 31 个州的大部分谷物和农产品都在这里卸货
+Dialogue: 0,0:10:57.00,0:10:58.50,Default,,0,0,0,,这简直难以置信
