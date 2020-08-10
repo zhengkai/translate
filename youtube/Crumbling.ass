@@ -9,8 +9,8 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Scroll Position: 156
-Active Line: 179
+Scroll Position: 186
+Active Line: 198
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -58,9 +58,9 @@ Dialogue: 0,0:03:09.80,0:03:15.50,Default,,0,0,0,,用于建设新的公路、桥
 Dialogue: 0,0:03:15.50,0:03:17.50,Default,,0,0,0,,遍及我们伟大的国家
 Dialogue: 0,0:03:17.50,0:03:19.50,Default,,0,0,0,,把宏伟诺言落实为具体方案
 Dialogue: 0,0:03:19.50,0:03:24.00,Default,,0,0,0,,这事交给了作为商人和前美国国会中国委员会成员的 Dan Slain
-Dialogue: 0,0:03:24.50,0:03:27.00,Default,,0,0,0,,Slain 给出有 50 个基建项目的列表
+Dialogue: 0,0:03:24.50,0:03:27.00,Default,,0,0,0,,Slain 给出有 50 个基建项目的清单
 Dialogue: 0,0:03:27.00,0:03:29.00,Default,,0,0,0,,为供特朗普过渡小组参考
-Dialogue: 0,0:03:29.00,0:03:31.80,Default,,0,0,0,,列表顺序基于对国家的紧急和重要程度
+Dialogue: 0,0:03:29.00,0:03:31.80,Default,,0,0,0,,清单顺序基于对国家的紧急和重要程度
 Dialogue: 0,0:03:31.80,0:03:36.20,Default,,0,0,0,,我的计划是从最关键的项目开始入手
 Dialogue: 0,0:03:36.20,0:03:40.50,Default,,0,0,0,,计算会因此增加多少就业机会
 Dialogue: 0,0:03:40.50,0:03:43.00,Default,,0,0,0,,对经济发展会有什么样的好处
@@ -199,3 +199,21 @@ Dialogue: 0,0:10:44.40,0:10:47.10,Default,,0,0,0,,这也有一个需要维修的
 Dialogue: 0,0:10:49.00,0:10:52.00,Default,,0,0,0,,这里美国的主要出口港口
 Dialogue: 0,0:10:52.00,0:10:57.00,Default,,0,0,0,,有 31 个州的大部分谷物和农产品都在这里卸货
 Dialogue: 0,0:10:57.00,0:10:58.50,Default,,0,0,0,,这简直难以置信
+Dialogue: 0,0:10:58.50,0:11:01.60,Default,,0,0,0,,这看起来很棒，法国人当初很便宜地卖给了咱们\N是的，哈哈
+Dialogue: 0,0:11:03.50,0:11:04.90,Default,,0,0,0,,现在怎么样了？
+Dialogue: 0,0:11:04.90,0:11:09.90,Default,,0,0,0,,主要的问题是出海口的淤泥
+Dialogue: 0,0:11:09.90,0:11:12.00,Default,,0,0,0,,那地方叫西南通道
+Dialogue: 0,0:11:12.20,0:11:16.50,Default,,0,0,0,,工兵部队没法使其保持 50 英尺（15 米）的吃水深度
+Dialogue: 0,0:11:16.50,0:11:20.50,Default,,0,0,0,,可从巴拿马运河过来的船就是这个深度
+Dialogue: 0,0:11:20.50,0:11:24.30,Default,,0,0,0,,所以从 2016 年开始，标准降低到 41 英尺
+Dialogue: 0,0:11:24.30,0:11:28.30,Default,,0,0,0,,每降低 1 英尺，都意味着损失上百万美元的货运
+Dialogue: 0,0:11:28.80,0:11:33.70,Default,,0,0,0,,如果乘以每年的 7000 艘货船，损失就是个天文数字
+Dialogue: 0,0:11:33.70,0:11:36.50,Default,,0,0,0,,这降低了我们在全球环境中的竞争力
+Dialogue: 0,0:11:36.50,0:11:39.80,Default,,0,0,0,,这条河对过往船只变得越来越不可用
+Dialogue: 0,0:11:39.80,0:11:42.50,Default,,0,0,0,,港口的收入也会越来越少
+Dialogue: 0,0:11:42.50,0:11:44.70,Default,,0,0,0,,因为人们会把船开到其他地方
+Dialogue: 0,0:11:44.70,0:11:46.60,Default,,0,0,0,,对的，这是个恶性循环
+Dialogue: 0,0:11:46.90,0:11:49.50,Default,,0,0,0,,Slane 被政府指派去解决这个恶性循环
+Dialogue: 0,0:11:49.50,0:11:54.70,Default,,0,0,0,,问题很明显，他的基建项目清单没有被排到应有的优先级
+Dialogue: 0,0:11:54.70,0:11:58.50,Default,,0,0,0,,你是从什么时候意识到，政府并没有采纳
+Dialogue: 0,0:11:58.50,0:12:02.50,Default,,0,0,0,,2017 年 2 月，我给出的清单被搁置了
